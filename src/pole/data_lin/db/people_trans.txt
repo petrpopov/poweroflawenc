@@ -1,0 +1,7 @@
+htpd	Полицейское управление
+freehunters	Мутанты 
+delichi	Деличи
+rich	Охранники
+hidden_agent	Агент
+goverment	Правительство
+syndicate	Синдикат

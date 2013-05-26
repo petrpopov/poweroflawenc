@@ -1,0 +1,18 @@
+powerButton	Закрыть приложение
+navButton	Отобразить панель навигации
+dataButton	Отобразить базу данных
+journalButton	Отобразить арт
+topleftButton	Предыдущий подраздел
+toprightButton	Следующий подраздел
+leftButton	Предыдущая запись
+rightButton	Следующая запись
+rnavButton	Следующий уровень
+lnavButton	Предыдущий уровень
+rdButton	Следующая запись
+ldButton	Предыдущая запись
+rdtopButton	Следующий подраздел
+ldtopButton	Предыдущий подраздел
+forcesButton	Отобразить страницу с организациями
+peopleButton	Отобразить страницу с людьми
+techButton	Отобразить страницу с техникой
+outfitButton	Отобразить страницу со снаряжением
